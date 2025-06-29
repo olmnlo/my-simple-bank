@@ -11,6 +11,7 @@ public class Main {
         int balance = 10000;
         String pin = "1234";
         int count_tries = 5;
+        System.out.println("");
 
         System.out.println("Welcome to Hussam's bank");
         String user_username, user_password;
