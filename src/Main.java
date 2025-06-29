@@ -12,7 +12,6 @@ public class Main {
         String pin = "1234";
         int count_tries = 5;
 
-
         System.out.println("Welcome to Hussam's bank");
         String user_username, user_password;
         // login progress is true while the username or password is not correct
